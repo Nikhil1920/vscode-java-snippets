@@ -1,0 +1,17 @@
+{
+    "main method with new scanner": {
+        "prefix": "mainwithsc",
+        "body": [
+            "import java.util.Scanner;",
+            "",
+            "class ${1:Solution} {",
+            "    public static void main(String[] args) {",
+            "        Scanner sc = new Scanner(System.in);",
+            "        $0",
+            "        sc.close();",
+            "    }",
+            "}"
+        ],
+        "description": "main method with new scanner"
+    }
+}

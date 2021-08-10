@@ -1,0 +1,20 @@
+{
+    "name": "java-snippets-by-anr",
+    "displayName": "anr's java snippets",
+    "description": "java snippets by Nikhil Reddy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "java",
+                "path": "./snippets/java.json"
+            }
+        ]
+    }
+}
