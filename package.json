@@ -3,7 +3,11 @@
     "publisher": "NikhilReddy",
     "displayName": "anr's java snippets",
     "description": "java snippets by Nikhil Reddy",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nikhil1920/vscode-java-snippets.git"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },

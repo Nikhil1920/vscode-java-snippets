@@ -13,5 +13,15 @@
             "}"
         ],
         "description": "main method with new scanner"
+    },
+    "test case while loop": {
+        "prefix": "testcase",
+        "body": [
+            "int num_of_cases = sc.nextInt();",
+            "while (num_of_cases-- > 0) {",
+            "    $0",
+            "}"
+        ],
+        "description": "test case while loop"
     }
 }
